@@ -47,11 +47,7 @@ color: white;
 }
 
 nav :visited{
-  color: yellow;
-}
-
-nav :hover{
-  color:rgb(236, 178, 224);
+  color:  rgb(242, 24, 231);
 }
 
 .About{
@@ -63,15 +59,15 @@ nav :hover{
 /* my h1 colors */
 
 h1,h2,h3{
-  color: rgb(3, 37, 36);
+  color: rgb(252, 96, 174);
 }
 
 body{
-  background-color: rgb(164, 180, 180);
+  background-color: rgb(214, 206, 210);
 }
 
 /* my css for contact page */
-.Emeka{
+.Mycontact{
   float: right;
   margin-right:5%;
 }
