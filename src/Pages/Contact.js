@@ -18,7 +18,7 @@ export default function Contact() {
             </h1>
             </div>
 <br/>
-<div className="H3Contac">
+<div className="H3Contact">
             <h3>FRONT END DEVELOPMENT</h3><br/>
             <button>CALL</button>
 
