@@ -67,12 +67,12 @@ body{
 }
 
 /* my css for contact page */
-.Mycontact{
+.myContact{
   float: right;
   margin-right:5%;
 }
 
-.myH3{
+.H3Contact{
   float: left;
   margin-left: 5%;
 }
