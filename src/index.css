@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+button{
+  background-color: rgb(3, 37, 36);
+  padding: 20px 100px;
+
+margin-top: 80px;
+color: white;
+font-size: 40px;
+border-radius: 20px;
+}
+
+nav{
+
+  background-color:  rgb(3, 37, 36);
+  padding:5%;
+  font-size: larger;
+
+}
+
+li {
+  display: inline; 
+  float: right;
+}
+
+
+a {
+  padding: 8px;
+  margin: 20px;
+color: white;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+nav :visited{
+  color: yellow;
+}
+
+nav :hover{
+  color:rgb(236, 178, 224);
+}
+
+.About{
+  margin-left: 5%;
+  /* margin-top: 10%; */
+  float: left;
+}
+
+/* my h1 colors */
+
+h1,h2,h3{
+  color: rgb(3, 37, 36);
+}
+
+body{
+  background-color: rgb(164, 180, 180);
+}
+
+/* my css for contact page */
+.Emeka{
+  float: right;
+  margin-right:5%;
+}
+
+.myH3{
+  float: left;
+  margin-left: 5%;
+}
+
+/* for my loggin page */
+.myForm{
+  margin-top:40px;
+}
+
+input{
+  border-radius: 20px;
+  margin: 5px;
+  padding: 10px;
+  background-color: rgb(164, 180, 180);
+}
