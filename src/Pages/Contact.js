@@ -6,7 +6,7 @@ export default function Contact() {
             
             <h1>CONTACT</h1>   
             
-           <div className="Emeka" >
+           <div className="myContact" >
            <h1> <p>Ejiro A </p>
             <p>Facilitato </p>
             <p> 0813-456-5674 </p>
